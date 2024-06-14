@@ -1,0 +1,8 @@
+colorama
+console
+readchar
+requests
+urllib3
+configparser
+stem
+requests[socks]
